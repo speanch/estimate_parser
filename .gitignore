@@ -1,0 +1,11 @@
+# Secrets & local config
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Входные данные (сметы)
+*.xlsx
+*.xls
+xls/
